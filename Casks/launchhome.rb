@@ -1,8 +1,8 @@
 cask "launchhome" do
-  version "1.2.0"
-  sha256 "26c317668d82c75a35637d21df5e40e8d1eadcaebd0884b157aa33d9ff7f7b42"
+  version "1.2.1"
+  sha256 "af051f025c6c9435451e75d0ca9a99a60c4d7aaea27ee116acac67b9d253afae"
 
-  url "https://dl.launchhome.app/releases/#{version}/LaunchHome-#{version}.dmg?r2"
+  url "https://dl.launchhome.app/releases/#{version}/LaunchHome-#{version}.dmg"
   name "LaunchHome"
   desc "Launchpad replacement with pages, folders and drag-and-drop"
   homepage "https://launchhome.app/"
