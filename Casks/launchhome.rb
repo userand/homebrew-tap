@@ -17,6 +17,8 @@ cask "launchhome" do
 
   app "LaunchHome.app"
 
+  uninstall quit: "com.wlh.launchpad"
+
   zap trash: [
     "~/Library/Application Support/com.wlh.launchpad",
     "~/Library/Caches/com.wlh.launchpad",
