@@ -1,6 +1,6 @@
 cask "launchhome" do
-  version "1.3.0"
-  sha256 "794c9ce1651ad73e8f882102b6daacd38df3d94242f77bfb88ee5f1d586a4b90"
+  version "1.3.1"
+  sha256 "5f875497d16fb9018e84f167c1f62e2950f5f028bcd5dc454cdaf36455d538bf"
 
   url "https://dl.launchhome.app/releases/#{version}/LaunchHome-#{version}.dmg"
   name "LaunchHome"
